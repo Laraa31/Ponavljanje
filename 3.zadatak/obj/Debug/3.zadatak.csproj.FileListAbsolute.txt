@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\3.zadatak\obj\Debug\3.zadatak.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\3.zadatak\obj\Debug\3.zadatak.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\3.zadatak\bin\Debug\3.zadatak.exe.config
+C:\Users\ucenik\source\repos\3.zadatak\bin\Debug\3.zadatak.exe
+C:\Users\ucenik\source\repos\3.zadatak\bin\Debug\3.zadatak.pdb
+C:\Users\ucenik\source\repos\3.zadatak\obj\Debug\3.zadatak.exe
+C:\Users\ucenik\source\repos\3.zadatak\obj\Debug\3.zadatak.pdb
+C:\Users\ucenik\source\repos\3.zadatak\obj\Debug\3.zadatak.csproj.AssemblyReference.cache
