@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\2. zadatak\bin\Debug\_2.zadatak.exe.config
+C:\Users\ucenik\source\repos\2. zadatak\bin\Debug\_2.zadatak.exe
+C:\Users\ucenik\source\repos\2. zadatak\bin\Debug\_2.zadatak.pdb
+C:\Users\ucenik\source\repos\2. zadatak\obj\Debug\2. zadatak.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\2. zadatak\obj\Debug\2. zadatak.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\2. zadatak\obj\Debug\2. zadatak.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\2. zadatak\obj\Debug\_2.zadatak.exe
+C:\Users\ucenik\source\repos\2. zadatak\obj\Debug\_2.zadatak.pdb
